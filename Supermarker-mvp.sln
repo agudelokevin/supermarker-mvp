@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Supermarker-mvp", "Supermarker-mvp.vbproj", "{B3879E20-AF08-445B-8667-74738565C3F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3879E20-AF08-445B-8667-74738565C3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3879E20-AF08-445B-8667-74738565C3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3879E20-AF08-445B-8667-74738565C3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3879E20-AF08-445B-8667-74738565C3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7BAC7CE-4853-47C9-94DB-0BBFF4F57E65}
+	EndGlobalSection
+EndGlobal
